@@ -1,4 +1,4 @@
-# Evaluating the Effects of Denoising Methods on Critical Features in Bird Sound Recordings
+
 
 ---
 

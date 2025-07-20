@@ -1,6 +1,5 @@
 
-
----
+# Effects of Denoising Methods on Features of Bird Sounds
 
 ## Denoising Methods
 
@@ -10,7 +9,7 @@
 - Moving Average Filter
 - Gabor Filter
 
----
+
 
 ## Crtitical Features
 
@@ -19,7 +18,6 @@
 - Signal to Noise Ration (SNR)
 - Wavelet Coefficients
 
----
 
 ## Noise Types
 
